@@ -1,0 +1,10 @@
+Username: nimrah | Type: Client | Name: nimrahpunjwani | Email: nimrahpunjwani@gmail.com
+Username: agent1 | Type: Agent | Name: asif | Email: agent1@travel.com
+Username: admin | Type: Admin | Name: Admin User | Email: admin@travel.com
+Username: agent2 | Type: Agent | Name: Sara Khan | Email: agent2@travel.com
+Username: numairah | Type: Client | Name: numairah punjwani | Email: numairah@punjwani.com
+Username: ABC | Type: Client | Name: abcds | Email: ABC@gmail.com
+Username: aiman | Type: Client | Name: aimane | Email: aiman@gmail.com
+Username: lmughal | Type: Client | Name: Miss Laiba | Email: lmughal@gmail.com
+
+

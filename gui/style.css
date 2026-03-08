@@ -1,0 +1,84 @@
+
+
+.root, .stack-pane {
+    -fx-font-family: 'Segoe UI', 'Arial', sans-serif;
+    -fx-background-color: linear-gradient(135deg, #e0eafc 0%, #cfdef3 100%);
+}
+
+.vbox, .hbox {
+    -fx-spacing: 18;
+    -fx-padding: 30 40 30 40;
+    -fx-background-color: white;
+    -fx-background-radius: 18;
+    -fx-border-radius: 18;
+    -fx-border-color: #5b86e5;
+    -fx-border-width: 2;
+    -fx-effect: dropshadow(gaussian, #b2fefa, 12, 0.2, 0, 4);
+}
+
+.button {
+    -fx-background-color: linear-gradient(90deg, #36d1c4, #5b86e5);
+    -fx-text-fill: rgb(0, 0, 0);
+    -fx-font-weight: bold;
+    -fx-background-radius: 20;
+    -fx-padding: 8 24 8 24;
+    -fx-font-size: 15px;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, #b2fefa, 2, 0.2, 0, 2);
+    -fx-border-width: 0;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(90deg, #5b86e5, #36d1c4);
+    -fx-effect: dropshadow(gaussian, #36d1c4, 8, 0.3, 0, 4);
+}
+
+.button:pressed {
+    -fx-background-color: #3a5fcd;
+}
+
+.text-field, .password-field, .combo-box {
+    -fx-background-radius: 15;
+    -fx-background-color: #f7fafc;
+    -fx-border-color: #5b86e5;
+    -fx-border-radius: 15;
+    -fx-padding: 8 12 8 12;
+    -fx-font-size: 15px;
+}
+
+.text-area, .list-view {
+    -fx-background-radius: 15;
+    -fx-background-color: #f7fafc;
+    -fx-border-color: #5b86e5;
+    -fx-border-radius: 15;
+    -fx-font-size: 15px;
+}
+
+.text-area {
+    -fx-font-family: "Monospaced";
+}
+
+.label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #2a5058;
+    -fx-font-weight: bold;
+}
+
+.title-label {
+    -fx-font-size: 24px;
+    -fx-text-fill: linear-gradient(to right, #36d1c4, #5b86e5);
+    -fx-font-weight: bold;
+    -fx-padding: 0 0 18 0;
+}
+
+.status-label {
+    -fx-text-fill: #2a5058;
+    -fx-font-weight: bold;
+}
+
+.scroll-pane {
+    -fx-background: #f0f8ff;
+    -fx-border-color: #5b86e5;
+    -fx-background-radius: 15;
+    -fx-border-radius: 15;
+}
