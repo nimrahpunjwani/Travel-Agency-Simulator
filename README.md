@@ -86,6 +86,3 @@ Contributions are welcome. You can help by:
 Please **fork the repository** and submit a **pull request** for review.
 
 ---
-
-
-Do you want me to do that?
